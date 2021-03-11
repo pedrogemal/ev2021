@@ -6,7 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 -->
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO MAY BE HERE -->
 <br />
 <p align="center">
 
